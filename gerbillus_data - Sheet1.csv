@@ -1,0 +1,19 @@
+Species,HBL,HFL,WT,Mean_Temp,Max_Temp,Min_temp,Lat.mid,Habitat,Loc_niche,Tropical_Temperate
+Gerbillus amoenus,80,23,13,22.7,37.4,5.6,25.67,Desert,Terrestrial,Temperate
+Gerbillus bottai,86,20,23,28.6,40.1,16.1,13.98,Artificial Terrestrial,Terrestrial,Tropics
+Gerbillus campestris,103,27,29,18.9,34.1,2.8,31.2,Desert,Terrestrial,Temperate
+Gerbillus cosensis,100,26,32,25.1,32.1,17.8,2.27,Desert,Terrestrial,Tropics
+Gerbillus dasyurus,91,25,24,23.3,38.6,5.7,26.8,Desert,Terrestrial,Temperate
+Gerbillus dunni,98,30,39,26.7,35.3,17.9,7.93,Shrubland,Terrestrial,Tropics
+Gerbillus floweri,117,35,54,20,33.9,3.8,29.89,Desert,Terrestrial,Temperate
+Gerbillus harwoodi,75,20,14,20.2,27.4,12.2,-3.01,Savanna,Terrestrial,Tropics
+Gerbillus lowei,104,26,36,21.1,31.5,8.2,13,Rocky Areas,Terrestrial,Tropics
+Gerbillus maghrebi,112,27,43,16.9,30.4,3.5,33.66,Grassland,Terrestrial,Temperate
+Gerbillus nancillus,65,18,9,28.1,39.9,14.5,15.15,Grassland,Terrestrial,Tropics
+Gerbillus nigeriae,93,27,26,26.1,37.2,13.9,19.16,Desert,Terrestrial,Tropics
+Gerbillus percivali,75,20,14,22.6,30,14.8,-3.35,Savanna,Terrestrial,Tropics
+Gerbillus perpallidus,107,33,36,20.6,33.5,5.7,30.38,Desert,Terrestrial,Temperate
+Gerbillus pusillus,66,20,15,25,32.8,16.9,4.13,Savanna,Terrestrial,Tropics
+Gerbillus rosalinda,97,25,28,27.4,38.5,15.3,12.3,Grassland,Terrestrial,Tropics
+Gerbillus rupicola,101,26,36,28.2,40.2,15,15.41,Grassland,Terrestrial,Tropics
+Gerbillus simoni,81,21,17,18.1,32.9,2.2,33.82,Desert,Terrestrial,Temperate

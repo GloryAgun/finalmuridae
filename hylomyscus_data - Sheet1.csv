@@ -1,0 +1,12 @@
+Species,HBL,HFL,WT,Mean_Temp,Max_Temp,Min_temp,Lat.mid,Habitat,Loc_niche,Tropical_Temperate
+Hylomyscus aeta,94,21,25,24,29.8,17.7,0.8,Forest,Arboreal,Tropics
+Hylomyscus alleni,90,19,18,25,30.8,18.4,3.25,Forest,Arboreal,Tropics
+Hylomyscus anselli,101,21,28,20,29.7,8.5,-11.09,Forest,Arboreal,Tropics
+Hylomyscus arcimontensis,90,20,19,21.7,29.3,13.4,-7.05,Forest,Arboreal,Tropics
+Hylomyscus denniae,102,21,32,20.7,26.4,15,0.57,Forest,Arboreal,Tropics
+Hylomyscus endorobae,102,22,28,15.1,21.6,8,0.53,Forest,Arboreal,Tropics
+Hylomyscus grandis,97,20,33,18.2,23.9,11.1,6.21,Forest,Arboreal,Tropics
+Hylomyscus kerbispeterhansi,92,20,24,19.3,26.1,11.9,0.52,Forest,Arboreal,Tropics
+Hylomyscus parvus,67,15,13,24,29.7,17.8,3.11,Forest,Arboreal,Tropics
+Hylomyscus stella,85,17,20,22,27.6,16.3,0.24,Forest,Arboreal,Tropics
+Hylomyscus vulcanorum,95,20,22,17.4,23,11.5,-2.11,Forest,Arboreal,Tropics

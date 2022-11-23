@@ -1,0 +1,9 @@
+Species,HBL,HFL,WT,Mean_Temp,Max_Temp,Min_temp,Lat.mid,Habitat,Loc_niche,Tropical_Temperate
+Grammomys aridulus,114,23,43,23.3,34.6,9.4,13.14,Shrubland,Arboreal,Tropics
+Grammomys caniceps,97,21,28,26.6,31.9,20.3,0.4,Shrubland,Arboreal,Tropics
+Grammomys cometes,118,24,52,21.8,32.3,10.2,-24.59,Savanna,Arboreal,Temperate
+Grammomys dolichurus,112,24,35,21.6,30.2,11.7,-10.27,Savanna,Arboreal,Tropics
+Grammomys dryas,112,24,43,16.8,22.3,11.1,-1.43,Forest,Arboreal,Tropics
+Grammomys ibeanus,120,26,47,19.5,27.2,11.1,-4.67,Savanna,Arboreal,Tropics
+Grammomys kuru,114,25,53,24.3,29.8,18.1,2.37,Forest,Arboreal,Tropics
+Grammomys macmillani,105,24,34,24.9,32.4,16.3,2.82,Savanna,Arboreal,Tropics
